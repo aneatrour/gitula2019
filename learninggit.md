@@ -13,3 +13,7 @@
 **Markdown** - Great to know when you are building documentation with github or taking advantage of wiki features
 
 [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
+**Library Carpentry**
+
+[Intro to Git](https://librarycarpentry.org/lc-git/)
